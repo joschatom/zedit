@@ -12,7 +12,7 @@ s <path> Save the written lines to a file.
 
 o <path> Open a file.
 
-> ?        Print Help
+?        Print Help
 
 (And maybe there are some secret one too...)
 
