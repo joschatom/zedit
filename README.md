@@ -4,13 +4,13 @@ ZEdit is a simple command line git diff like editor.
 
 ## Commands
 
-> + <text> Add a new line
+\+ <text> Add a new line
 
-> q        Exit
+q        Exit
 
-> s <path> Save the written lines to a file.
+s <path> Save the written lines to a file.
 
-> o <path> Open a file.
+o <path> Open a file.
 
 > ?        Print Help
 
